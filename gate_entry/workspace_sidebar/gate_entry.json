@@ -1,0 +1,77 @@
+{
+  "app": "gate_entry",
+  "creation": "2026-03-25T00:00:00.000000",
+  "docstatus": 0,
+  "doctype": "Workspace Sidebar",
+  "header_icon": "gate_entry",
+  "idx": 0,
+  "items": [
+    {
+      "child": 0,
+      "collapsible": 1,
+      "icon": "ticket-check",
+      "indent": 0,
+      "keep_closed": 0,
+      "label": "Gate Pass",
+      "link_to": "Gate Pass",
+      "link_type": "DocType",
+      "show_arrow": 0,
+      "type": "Link"
+    },
+    {
+      "child": 0,
+      "collapsible": 1,
+      "icon": "flag",
+      "indent": 0,
+      "keep_closed": 0,
+      "label": "Gate Pass Type",
+      "link_to": "Gate Pass Type",
+      "link_type": "DocType",
+      "show_arrow": 0,
+      "type": "Link"
+    },
+    {
+      "child": 0,
+      "collapsible": 1,
+      "icon": "repeat",
+      "indent": 0,
+      "keep_closed": 0,
+      "label": "Gate Register",
+      "link_to": "Gate Register",
+      "link_type": "Report",
+      "show_arrow": 0,
+      "type": "Link"
+    },
+    {
+      "child": 0,
+      "collapsible": 1,
+      "icon": "calendar-sync",
+      "indent": 0,
+      "keep_closed": 0,
+      "label": "Material Reconciliation",
+      "link_to": "Material Reconciliation",
+      "link_type": "Report",
+      "show_arrow": 0,
+      "type": "Link"
+    },
+    {
+      "child": 0,
+      "collapsible": 1,
+      "icon": "bell-ring",
+      "indent": 0,
+      "keep_closed": 0,
+      "label": "Pending Gate Passes",
+      "link_to": "Pending Gate Passes",
+      "link_type": "Report",
+      "show_arrow": 0,
+      "type": "Link"
+    }
+  ],
+  "modified": "2026-03-25T00:00:00.000000",
+  "modified_by": "Administrator",
+  "module": "Gate Entry",
+  "name": "Gate Entry",
+  "owner": "Administrator",
+  "standard": 1,
+  "title": "Gate Entry"
+}
