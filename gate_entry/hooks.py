@@ -1,8 +1,8 @@
 app_name = "gate_entry"
 app_title = "Gate Entry"
-app_publisher = "Gurudatt Kulkarni"
-app_description = "An erpnext security gate module for recording material and people movement"
-app_email = "connect@gurudatt.in"
+app_publisher = "Cogniquaint Systems Private Limited"
+app_description = "An Cogniquaint gate module for recording material and people movement"
+app_email = "contact@cogniquaint.com"
 app_license = "mit"
 
 # Apps
@@ -12,15 +12,15 @@ app_license = "mit"
 required_apps = ["erpnext"]
 
 # Each item in the list will be shown as an app in the apps page
-add_to_apps_screen = [
-	{
-		"name": "gate_entry",
-		"logo": "/assets/gate_entry/icons/desktop_icon/gate_entry.svg",
-		"title": "Gate Entry",
-		"route": "/gate_entry",
-		"has_permission": "gate_entry.api.permission.has_app_permission"
-	}
-]
+# add_to_apps_screen = [
+# 	{
+# 		"name": "gate_entry",
+# 		"logo": "/assets/gate_entry/icons/desktop_icon/gate_entry.svg",
+# 		"title": "Gate Entry",
+# 		"route": "/gate_entry",
+# 		"has_permission": "gate_entry.api.permission.has_app_permission"
+# 	}
+# ]
 
 # Includes in <head>
 # ------------------
