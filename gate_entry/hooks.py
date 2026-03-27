@@ -12,15 +12,15 @@ app_license = "mit"
 required_apps = ["erpnext"]
 
 # Each item in the list will be shown as an app in the apps page
-# add_to_apps_screen = [
-# 	{
-# 		"name": "gate_entry",
-# 		"logo": "/assets/gate_entry/logo.png",
-# 		"title": "Gate Entry",
-# 		"route": "/gate_entry",
-# 		"has_permission": "gate_entry.api.permission.has_app_permission"
-# 	}
-# ]
+add_to_apps_screen = [
+	{
+		"name": "gate_entry",
+		"logo": "/assets/gate_entry/icons/desktop_icon/gate_entry.svg",
+		"title": "Gate Entry",
+		"route": "/gate_entry",
+		"has_permission": "gate_entry.api.permission.has_app_permission"
+	}
+]
 
 # Includes in <head>
 # ------------------

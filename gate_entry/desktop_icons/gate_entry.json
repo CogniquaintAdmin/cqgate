@@ -5,7 +5,7 @@
  "doctype": "Desktop Icon",
  "hidden": 0,
  "icon": "gate_entry",
- "icon_type": "Module",
+ "icon_type": "Link",
  "idx": 1,
  "label": "Gate Entry",
  "link_to": "Gate Entry",
